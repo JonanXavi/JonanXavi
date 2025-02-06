@@ -56,5 +56,5 @@ I am a Quality Assurance Engineer <img src="https://media.giphy.com/media/WUlplc
 
 ### :fire: My Stats :
 <div align="center">
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=jonanxavi&layout=compact&theme=vision-friendly-dark](https://github-readme-stats.vercel.app/api/top-langs/?username=jonanxavi&layout=compact&theme=vision-friendly-dark)" width="600"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonanxavi&layout=compact&theme=vision-friendly-dark" width="600"/>
 </div>
