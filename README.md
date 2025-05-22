@@ -16,7 +16,7 @@
 
 ---
 ### :man_technologist: About Me :
-I am a Quality Assurance Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ecuador.
+I am a Software Quality Assurance Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ecuador.
 - :telescope: I’m working as a Semi-Senior QA Engineer for an e-commerce company.
 
 - :seedling: Constantly learning and sharing knowledge to improve quality assurance processes and techniques.
